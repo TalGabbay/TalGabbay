@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TalGabbay
 - 🌱 CS student at the OpenUni
-- 💞️ Workint at Intel
+- 💞️ Working at Intel
 - 📫 gabbay.tal1@gmail.com
 
 <!---
